@@ -1,0 +1,28 @@
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\ShapeGame\CS\bin\Debug\ShapeGame.exe.config
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\ShapeGame\CS\bin\Debug\ShapeGame.exe
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\ShapeGame\CS\bin\Debug\ShapeGame.pdb
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\ShapeGame\CS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\ShapeGame\CS\obj\x86\Debug\MainWindow.baml
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\ShapeGame\CS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\ShapeGame\CS\obj\x86\Debug\App.g.cs
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\ShapeGame\CS\obj\x86\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\ShapeGame\CS\obj\x86\Debug\ShapeGame.g.resources
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\ShapeGame\CS\obj\x86\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\ShapeGame\CS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\ShapeGame\CS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\ShapeGame\CS\obj\x86\Debug\ShapeGame.exe
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\ShapeGame\CS\obj\x86\Debug\ShapeGame.pdb
+C:\Users\Artem\Programin\Kinect\Title\bin\Debug\ShapeGame.exe.config
+C:\Users\Artem\Programin\Kinect\Title\obj\x86\Debug\ShapeGame.exe
+C:\Users\Artem\Programin\Kinect\Title\obj\x86\Debug\ShapeGame.pdb
+C:\Users\Artem\Programin\Kinect\Title\bin\Debug\ShapeGame.exe
+C:\Users\Artem\Programin\Kinect\Title\bin\Debug\ShapeGame.pdb
+C:\Users\Artem\Programin\Kinect\Title\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Artem\Programin\Kinect\Title\obj\x86\Debug\MainWindow.baml
+C:\Users\Artem\Programin\Kinect\Title\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Artem\Programin\Kinect\Title\obj\x86\Debug\App.g.cs
+C:\Users\Artem\Programin\Kinect\Title\obj\x86\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\Artem\Programin\Kinect\Title\obj\x86\Debug\ShapeGame.g.resources
+C:\Users\Artem\Programin\Kinect\Title\obj\x86\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\Artem\Programin\Kinect\Title\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Artem\Programin\Kinect\Title\obj\x86\Debug\GenerateResource.write.1.tlog
