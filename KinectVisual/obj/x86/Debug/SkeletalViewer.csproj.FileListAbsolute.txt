@@ -23,3 +23,14 @@ C:\Users\Artem\Programin\KinectVisual\obj\x86\Debug\SkeletalViewer.g.resources
 C:\Users\Artem\Programin\Kinect\KinectVisual\bin\Debug\SkeletalViewer.exe.config
 C:\Users\Artem\Programin\Kinect\KinectVisual\obj\x86\Debug\SkeletalViewer.exe
 C:\Users\Artem\Programin\Kinect\KinectVisual\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\Artem\Programin\Kinect-game\KinectVisual\bin\Debug\SkeletalViewer.exe.config
+C:\Users\Artem\Programin\Kinect-game\KinectVisual\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\Artem\Programin\Kinect-game\KinectVisual\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\Artem\Programin\Kinect-game\KinectVisual\bin\Debug\SkeletalViewer.exe
+C:\Users\Artem\Programin\Kinect-game\KinectVisual\bin\Debug\SkeletalViewer.pdb
+C:\Users\Artem\Programin\Kinect-game\KinectVisual\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Artem\Programin\Kinect-game\KinectVisual\obj\x86\Debug\MainWindow.baml
+C:\Users\Artem\Programin\Kinect-game\KinectVisual\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Artem\Programin\Kinect-game\KinectVisual\obj\x86\Debug\App.g.cs
+C:\Users\Artem\Programin\Kinect-game\KinectVisual\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\Artem\Programin\Kinect-game\KinectVisual\obj\x86\Debug\SkeletalViewer.g.resources

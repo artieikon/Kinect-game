@@ -6,22 +6,10 @@
     <StackPanel>
         <StackPanel Orientation="Horizontal">
             <StackPanel>
-                <TextBox FontSize="18" Focusable="False" BorderThickness="0" Text="Depth Stream" HorizontalAlignment="Center"/>
-                <Image Width="400" Height="300" Name="depth" Margin="10 0 10 10"/>
-            </StackPanel>
-            <StackPanel>
                 <TextBox FontSize="18" Focusable="False" BorderThickness="0" Text="Skeleton (rendered if full body fits in frame)" HorizontalAlignment="Center"/>
                 <Canvas Width="400" Height="300" Name="skeleton" Margin="10 0 10 10" Background="Black" ClipToBounds="True"/>
             </StackPanel>
-        </StackPanel>
-        <StackPanel Orientation="Horizontal">
-            <StackPanel Width="400" Height="300">
-                <TextBox FontSize="72" Name="frameRate" Margin="10" Focusable="False" BorderThickness="0" Text="0 fps" TextAlignment="Right" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                <TextBox FontSize="20" Name="spoken" Margin="10" Focusable="False" BorderThickness="0" Text="" TextAlignment="Right" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            </StackPanel>
-            
-            <StackPanel>
-                <TextBox FontSize="18" Focusable="False" BorderThickness="0" Text="Test drawing screen" HorizontalAlignment="Center" Name="VideoCaption" />
+            <StackPanel Orientation="Horizontal">
                 <Canvas Margin="12" Name="playfield" Height="300" Width="400">
                     <Canvas.Background>
                         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
